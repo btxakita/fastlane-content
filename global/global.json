@@ -1,0 +1,37 @@
+{
+  "header": {
+    "name": "Main",
+    "color": "default",
+    "nav": [
+      {
+        "href": "/",
+        "label": "Home"
+      },
+      {
+        "href": "/about",
+        "label": "About"
+      },
+      {
+        "href": "https://fstln.io",
+        "external": true,
+        "label": "Official"
+      },
+      {
+        "href": "home",
+        "label": "Home"
+      }
+    ]
+  },
+  "footer": {
+    "color": "default",
+    "social": {
+      "facebook": "https://facebook.com",
+      "twitter": "https://twitter.com"
+    }
+  },
+  "theme": {
+    "color": "pink",
+    "font": "sans",
+    "darkMode": "system"
+  }
+}
