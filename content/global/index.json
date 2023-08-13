@@ -12,13 +12,13 @@
         "label": "About"
       },
       {
-        "href": "https://fstln.io",
-        "external": true,
-        "label": "Official"
+        "href": "/contact",
+        "label": "Contact"
       },
       {
-        "href": "home",
-        "label": "Home"
+        "href": "https://fstln.io",
+        "label": "Official",
+        "external": true
       }
     ]
   },
